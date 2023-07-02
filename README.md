@@ -12,7 +12,7 @@ A passionate Web developer from India</h2>
 - 📫 How to reach me **wilsonraja.ra@gmail.com**
 
 # 💫 About Me:
-🔭 I’m looking for a Job<br>👯 I’m looking to collaborate on Full Stack<br>🌱 I’m currently learning Next.JS<br>💬 Ask me about Web Devolopment<br>⚡ Fun fact : Next time you're stuck on a problem, try taking a shower and see if you come up with a solution 😅
+🔭 I’m looking for a Job<br>👯 I’m looking to collaborate on Full Stack<br>💬 Ask me about Web Devolopment<br>⚡ Fun fact : Next time you're stuck on a problem, try taking a shower and see if you come up with a solution 😅
 
 
 ## 🌐 Socials:
