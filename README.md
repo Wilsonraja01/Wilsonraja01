@@ -7,7 +7,7 @@ A passionate Web developer from India</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilsonraja01" alt="wilsonraja01" /></a> </p>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **React.JS**
 
 - 📫 How to reach me **wilsonraja.ra@gmail.com**
 
