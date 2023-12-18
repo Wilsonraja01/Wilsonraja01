@@ -1,6 +1,6 @@
 <img align="left" width="1000" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 <h2 align="center">Hi 👋, I'm Wilson Antony <br>
-A passionate Full Stack Developer from India</h2>
+A passionate MERN Full Stack Developer from India</h2>
 <!-- <h2 align="center">A passionate Web developer from India</h2> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonraja01&label=Profile%20views&color=0e75b6&style=flat" alt="wilsonraja01" /> </p>
